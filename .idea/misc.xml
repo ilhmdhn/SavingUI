@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/bg_button_black.xml" value="0.1" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/bg_history.xml" value="0.3449074074074074" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/bg_navigation.xml" value="0.3333333333333333" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/bg_pb.xml" value="0.3439814814814815" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/ic_bg_history.xml" value="0.3449074074074074" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/ic_bg_money.xml" value="0.3449074074074074" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/ic_home.xml" value="0.3194444444444444" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/ic_strip_slide.xml" value="0.3037037037037037" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/drawable/square_onboarding.xml" value="0.2" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/font/poppins.xml" value="0.1" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/layout/activity_on_boarding.xml" value="0.18" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/layout/fragment_home.xml" value="0.5" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/layout/fragment_portofolio.xml" value="0.33055555555555555" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/layout/history_transaction.xml" value="0.5" />
+        <entry key="..\:/Project/Android/saving/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.324537037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
